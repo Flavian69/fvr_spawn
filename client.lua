@@ -35,10 +35,6 @@ FlaviaNdiveloper(function()
             local dist = #(vector3(v[1],v[2],v[3]) - pedcoords)
             if GetDistanceBetweenCoords(902.6693725586,-3134.8303222656,-97.123626708984, pedcoords.x, pedcoords.y, pedcoords.z, true) < 90 then
                 Draw3DText(pedcoords.x,pedcoords.y,pedcoords.z,"Script realizat de FlaviaN#6721",0.1,6)
-                if IsControlJustPressed(0, 18) and not IsControlJustReleased(0, 18) then
-                    Draw3DText(pedcoords.x,pedcoords.y,pedcoords.z,"Cat timp esti in tutorial nu poti sari",0.7)
-                end
-                
                 
                 DisableControlAction(0,21,true) 
                 DisableControlAction(0,24,true) 
