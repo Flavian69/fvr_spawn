@@ -3,7 +3,6 @@
 -- DACA AI ALTE PROPUNERI DE SCRIPTURI MI LE POTI LASA IN PRIVAT : FlaviaN#6721
 -- PENTRU SUPPORT INTRA PE SHOP SI T EVOI AJUTA IN CEL MAI SCURT TIMP POSIBIL
 -- PENTRU CULORI PUTETI FOLOSI : ~r~ ROSU; ~g~ VERDE; ~b~ ALBASTRU; ~w~ ALB; ~o~ PORTOCALIU; ~p~ MOV; ~y~ GALBEN;
-local credite = nil --lasa asta aici daca vrei sa mai fac "scripturi" gratis :)
 local locatii_texte = {
     [1] = {912.30139160156,-3078.4187011718,-97.123634338378,"Text 1"},
     [2] = {910.8662109375,-3087.2299804688,-97.123580932618,"De aici iti creezi identitatea ->"},
